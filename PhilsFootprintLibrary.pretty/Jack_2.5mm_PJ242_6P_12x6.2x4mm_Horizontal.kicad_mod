@@ -65,7 +65,7 @@
   (pad "S" smd roundrect (at -3.7 -2.75) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 19d26e95-4b47-44aa-aefe-b86f0ff2a64d))
   (pad "T" smd roundrect (at 0 2.75) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp b8100b1d-a271-4f10-8dbf-d6ddf60bb9f5))
   (pad "TN" smd roundrect (at 3.7 2.75) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp cf495a61-069e-42bb-80a1-7ef567ff677c))
-  (model ":KICAD7_USER_3DMODEL_DIR:pj-342b-tx-smt.wrl"
+  (model "${KICAD7_USER_3DMODEL_DIR}/pj-342b-tx-smt.wrl"
     (offset (xyz -4 0 0))
     (scale (xyz 0.28 0.28 0.28))
     (rotate (xyz 90 -180 0))

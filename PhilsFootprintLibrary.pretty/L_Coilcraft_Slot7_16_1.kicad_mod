@@ -52,7 +52,7 @@
   (pad "6" thru_hole circle (at 2.25 2.25) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp aeb9ca41-5350-446f-ad34-487d2c671d77))
   (pad "MP" thru_hole circle (at -3.62 0) (size 1.524 1.524) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 545eb6fb-2b90-400a-8bfe-ef43e7b24340))
   (pad "MP" thru_hole circle (at 3.62 0) (size 1.524 1.524) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 12c129f5-c963-4c01-bcfa-5c1772c5806a))
-  (model "/Users/zoonman/Projects/Personal/KiCad/PhilsLibraries/Coils_150_SL.step"
+  (model "${KICAD7_USER_3DMODEL_DIR}/Coils_150_SL.step"
     (offset (xyz 3.8 -3.8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
